@@ -1,1 +1,1 @@
-# This is my test comment in the package , I will push this change into central repo.
+# This is my test comment in the package , I will push this change into central repo using the terminal
